@@ -2,11 +2,11 @@
 
 ### Contact information:
 
-**Phone:** +375(44)734-64-61 
+* **Phone:** +375(44)734-64-61 
 
-**E-mail:** kudinovich_2011@mail.ru
+* **E-mail:** kudinovich_2011@mail.ru
 
-**GitHub:** @NKudinovich
+* **GitHub:** @NKudinovich
 
 ---
 
@@ -26,7 +26,7 @@ I want to learn JavaScript and become a programmer. I know how to use a PC well.
 
 ---
 
-### Code expample
+### Code example
 
 ```
 
@@ -36,12 +36,12 @@ Coming soon
 
 ### Work expiriens
 
-I`m study at RS_SCHOOL now! :)
+* I`m study at RS_SCHOOL now! :)
 
 ### Education
 
-The last year of the BSTU University in the specialization "Economics and management at the enterprise"
+* The last year of the BSTU University in the specialization "Economics and management at the enterprise"
 
 ### English
 
-A1-A2 Level.
+* A1-A2 Level.

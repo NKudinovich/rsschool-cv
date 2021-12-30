@@ -30,7 +30,9 @@ I want to learn JavaScript and become a programmer. I know how to use a PC well.
 
 ```
 
-Coming soon
+function multiply(a, b) {
+  return a * b;
+}
 
 ``` 
 

@@ -23,3 +23,34 @@ I want to learn JavaScript and become a programmer. I know how to use a PC well.
 2. CSS
 
 3. VS Code, WebStorm
+
+---
+
+### Code example
+
+```
+
+function multiply(a, b) {
+  return a * b;
+}
+
+``` 
+---
+
+### Work expiriens
+
+* I`m study at RS_SCHOOL now! :)
+
+---
+
+### Education
+
+* BSTU 2017-2022
+
+"Economics and management at the enterprise"
+
+---
+
+### English
+
+* A1 level.
